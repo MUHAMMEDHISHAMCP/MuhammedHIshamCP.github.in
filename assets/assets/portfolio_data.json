@@ -1,0 +1,213 @@
+{
+  "name": "Muhammed Hisham",
+  "countryCode": "IN",
+  "email": "mrhishamcp@gmail.com",
+  "phone": "+91 9646968441",
+  "github": "MUHAMMEDHISHAMCP",
+  "github_url": "https://github.com/MUHAMMEDHISHAMCP",
+  "linkedIn": "Muhammed Hisham",
+  "linkedin_url": "https://www.linkedin.com/in/muhammed-hisham-4a33a8233",
+  "location": "Kannur, Kerala",
+  "avatarInitial": "H",
+  "searchHint": "https://www.linkedin.com/in/adityasharma/",
+  "aboutMe": "I am a passionate Flutter Developer with hands-on experience building high-quality, cross-platform mobile applications. I specialize in architecting scalable solutions, integrating modern state management, and collaborating with designers to deliver beautiful, user-centric apps. My expertise includes working with RESTful APIs, Firebase, CI/CD, and publishing apps to both the Play Store and App Store. I thrive in Agile teams and am committed to continuous learning and delivering impactful digital products.",
+  "skills": {
+    "Technical Stacks": [
+      "Flutter",
+      "Dart",
+      "Hive",
+      "Figma",
+      "Firebase",
+      "Provider",
+      "Bloc",
+      "Riverpod",
+      "Kotlin",
+      "SQLite",
+      "Postman",
+      "JSON",
+      "CI/CD",
+      "Restful Web service"
+    ],
+    "Version Control": [
+      "Git",
+      "Gitlab",
+      "Bitbucket"
+    ],
+    "Operating Systems": [
+      "Windows",
+      "Mac"
+    ],
+    "Project Management": [
+      "Jira",
+      "Redmine",
+      "Trello"
+    ]
+  },
+  "projects": [
+    {
+      "title": "MBR Holy Quran",
+      "description": "A feature-rich Quran app offering tools to read, listen, and explore Islamic practices. It includes functionalities like Qibla direction, prayer times, and much more. Perfectly crafted for a spiritual and user-friendly experience.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Hive",
+        "google map",
+        "just audio"
+      ],
+      "link": null
+    },
+    {
+      "title": "HomeMade",
+      "description": "Contributed to the development of the HomeMade Food Delivery App, a platform linking home chefs with customers. This venture streamlined the process of ordering fresh, homemade meals, elevating convenience for users. ",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Nodejs",
+        "rest API"
+      ],
+      "link": null
+    },
+    {
+      "title": "Peedia",
+      "description": "Played a pivotal role in the development and deployment of Peedia app. Peedia is a Shop online for grocery, fruits, vegetables, beauty & wellness products, and more. Customers enjoy doorstep delivery of their orders at the most competitive prices.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Hive"
+      ],
+      "link": null
+    },
+    {
+      "title": "BizzMe",
+      "description": "Contributed to developing a Warehouse Management app, enhancing product management and order processing. Led design and implementation efforts, focusing on barcode scanning, real-time data sync, and customizable workflows. Implemented offline storage capabilities to ensure functionality in areas with low internet connectivity. Gained valuable experience in project management, software development, and team collaboration. ",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "rest API",
+        "Hive"
+      ],
+      "link": null
+    },
+    {
+      "title": "Wallet guard ",
+      "description": "Wallet Guard is a good budget app to track spending and expenses. A good budget maker and expense tracker for everyone. This is a good finance app while user-friendly allowing easy money management. The key to financial success is money management. Wallet Guard brings to you a good finance calculation to help you plan your budget, record your transactions, forecast your budget and save money.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Hive",
+        "pie chart"
+      ],
+      "link": null
+    }
+  ],
+  "workExperiences": [
+    {
+      "company": "Folkslogic Technologies",
+      "position": "Software Engineer",
+      "location": "Mangalore, Karnataka",
+      "startDate": "March 2025",
+      "endDate": "Present",
+      "highlights": [
+        "Led the development of a scalable mobile app architecture using Flutter and Riverpod.",
+        "Collaborated with UI/UX designers to deliver pixel-perfect interfaces and smooth animations.",
+        "Integrated CI/CD pipelines for automated testing and deployment.",
+        "Mentored junior developers and conducted code reviews to ensure best practices."
+      ]
+    },
+    {
+      "company": "Integration Technology consulting",
+      "position": "Flutter Developer",
+      "location": "Riyad, Saudi Arabia",
+      "startDate": "May 2023",
+      "endDate": "December 2024",
+      "highlights": [
+        "Developed and launched a business-critical app with offline-first capabilities using Hive and SQLite.",
+        "Integrated RESTful APIs and Firebase for real-time data and authentication.",
+        "Implemented custom animations and transitions for enhanced user experience.",
+        "Worked closely with QA to resolve bugs and optimize app performance."
+      ]
+    },
+    {
+      "company": "BACKB SOLUTION",
+      "position": "Flutter Developer",
+      "location": "Kannur, Kerala",
+      "startDate": "December 2021",
+      "endDate": "February 2023",
+      "highlights": [
+        "Implemented state management using Bloc and Provider for scalable codebases.",
+        "Integrated push notifications, analytics, and in-app purchases.",
+        "Collaborated in Agile teams, participating in sprint planning and code reviews."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Diploma in Computer Applications",
+      "institution": "Calicut University",
+      "location": "Calicut, Kerala",
+      "startDate": "2023",
+      "endDate": "2024",
+      "grade": null
+    },
+    {
+      "degree": "Bachelor of Computer Applications",
+      "institution": "Pondicherry University",
+      "location": "Kalapet, Pondicherry",
+      "startDate": "2020",
+      "endDate": "2023",
+      "grade": null
+    },
+    {
+      "degree": "Higher Secondary",
+      "institution": "National Institute of Open Schooling",
+      "location": "Kannur, Kerala",
+      "startDate": "2017",
+      "endDate": "2019",
+      "grade": null
+    }
+  ],
+  "movies": [
+    {
+      "name": "The Pursuit of Happyness",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ5NjQ0NDI3NF5BMl5BanBnXkFtZTcwNDI0MjEzMw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "Steve Jobs",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTUwMzAyMjgyNV5BMl5BanBnXkFtZTgwOTU3ODUzNjE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "name": "Interstellar",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "Silicon Valley",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjhhYmZjZjgtOTc3Mi00ZmY3LWI3MTUtYzcyOGMxYWFmN2YyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "name": "The Matrix",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_.jpg"
+    }
+  ],
+  "books": [
+    {
+      "name": "Atomic Habits",
+      "imageUrl": "https://m.media-amazon.com/images/I/61M6KzUbf7L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Rich Dad Poor Dad",
+      "imageUrl": "https://m.media-amazon.com/images/I/81BE7eeKzAL.jpg"
+    },
+    {
+      "name": "Clean Code",
+      "imageUrl": "https://m.media-amazon.com/images/I/51E2055ZGUL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "name": "Ikigai",
+      "imageUrl": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg"
+    }
+  ],
+  "profileImageUrl": ""
+}
