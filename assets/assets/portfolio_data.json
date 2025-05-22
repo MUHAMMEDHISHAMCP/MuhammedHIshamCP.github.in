@@ -209,5 +209,6 @@
       "imageUrl": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg"
     }
   ],
-  "profileImageUrl": ""
+  "profileImageUrl": "assets/images/profile_image.jpg",
+  "profileLogo" : "assets/images/my_logo.png"
 }
